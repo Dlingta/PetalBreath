@@ -1,0 +1,8 @@
+{
+  "name": "花息 · PetalBreath",
+  "description": "去医疗化、治愈系产后恢复陪伴应用。以植物生长隐喻身体唤醒，以花朵开合引导呼吸与轻提，零焦虑陪伴每一段花期。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
